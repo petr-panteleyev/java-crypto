@@ -1,0 +1,15 @@
+# OS X
+.DS_Store
+
+# Maven
+target/
+
+# IDEA
+.idea
+*.iml
+*.ipr
+out/
+
+nb-configuration.xml
+
+.gigacode
